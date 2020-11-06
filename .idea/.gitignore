@@ -1,0 +1,10 @@
+# Default ignored files
+/workspace.xml
+compiler.xml
+*.xml
+.iml
+misc.xml
+modules.xml
+vcs.xml
+SpringRabbitMQProducer.iml
+
